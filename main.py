@@ -34,7 +34,7 @@ print("---------")
 print(curso_fisic)
 
 #Crear nuevo curso de física
-curso_nuevo_fisic = Curso("Física","FIS101","María Lopez")
+curso_nuevo_fisic = Curso("Física","FIS102","Julio Lopez")
 universidad.agregar_curso(curso_nuevo_fisic)
 
 #Imprimir los cursos

@@ -10,4 +10,4 @@ class Estudiante(Persona):
     
     def __str__(self):
         #Representación en cadena de estudiante
-        return f"{super().__str__}, Carnet: {self.carnet}, Carrera: {self.carrera}"
+        return f"{super().__str__()}, Carnet: {self.carnet}, Carrera: {self.carrera}"
