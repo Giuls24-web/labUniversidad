@@ -32,6 +32,7 @@ print("---------")
 print(profesor_juan)
 print("---------")
 print(curso_fisic)
+print("---------")
 
 #Crear nuevo curso de física
 curso_nuevo_fisic = Curso("Física","FIS102","Julio Lopez")
